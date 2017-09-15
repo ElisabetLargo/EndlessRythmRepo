@@ -21,6 +21,7 @@
 
         <activity android:name=".SplashScreen"
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+
             >
 
             <intent-filter>
